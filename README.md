@@ -16,7 +16,6 @@ A to-do list is a tool that helps you organize and manage tasks or items that yo
 1. Open a new Terminal (open the path of your project folder or desktop or any folder).
 2. Create a Folder `**mkdir ToDoList-v1`**
 3. Go inside the folder `**cd ToDoList-v1/`**
-4. 
 
 **Now Downlod the files**
 
