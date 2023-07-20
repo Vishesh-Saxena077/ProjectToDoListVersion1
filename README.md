@@ -34,7 +34,8 @@ put in the folder and remove the other files **else** to create files or folders
 
 a folder will be created
 **SNAP SHOT**
+![image](https://github.com/Vishesh-Saxena077/PxrojectToDoListVersion1/assets/71202764/619a53c2-b7b5-4740-8a15-82fb6e4393ed)
 
-![1689839832672](image/README/1689839832672.png)
+
 
 this is the file and folder structure that will be formed
